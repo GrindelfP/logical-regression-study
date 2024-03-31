@@ -1,4 +1,4 @@
-= Logical regression sudy =
+= Logistic regression sudy =
 
 == Description ==
 

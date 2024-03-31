@@ -1,0 +1,7 @@
+= Logical regression sudy =
+
+== Description ==
+
+First part of the repository code is based on https://habr.com/ru/company/skillfactory/blog/701530/[this article]. 
+
+Second part is the personal exercise based on the first part but on my own dataset.
